@@ -45,7 +45,3 @@
 <p align="left">🎌 Anime & Reading: Constantly finding inspiration in the animated and written worlds.  <br>💪 Seeking new superpowers: In both code and anime universes.</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Anuraj-TR/Anuraj-TR/output/snake.svg" alt="Snake animation" />
-
-###
